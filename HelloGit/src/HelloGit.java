@@ -6,6 +6,7 @@ public class HelloGit {
 		System.out.println("hello Git World V3");
 		System.out.println("hello Git World V4");
 		System.out.println("hello Git World V5");
+		System.out.println("hello Git World V6");
 
 	}
 
